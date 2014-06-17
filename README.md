@@ -3,22 +3,22 @@ MILAiS_map
 MILAiSのストリートビュー化に関わるファイルまとめたリポジトリです.  
 各フォルダ・ファイルの説明
 ----------------
-・MILAiS
+・MILAiS  
 THETAを天井カメラに吊るして撮影した画像が入ってます．
 その次の階層のフォルダたちは一枚の画像を32分割したものです．  
 
-・MILAiS'
+・MILAiS'  
 THETAと三脚を使って撮影した画像が入ってます．  
 
-・MILAiS:九州工業大学情報工学部未来型インタラクティブ教室_filesファルダとhtm
+・MILAiS:九州工業大学情報工学部未来型インタラクティブ教室_filesファルダとhtm  
 MILAiSのホームページの”MILAiSの``今"”のページに用いるファイルが入ったフォルダと
 そのhtmです．
   
-・MILAiS.htmlとMILAiS.js
+・MILAiS.htmlとMILAiS.js  
 MILAiS.htmlおよびjsファイルはスクリーンなしのストリートビューです．
 また，画像は32分割して表示しています．
 
-・MILAiS_Screen.htmlとMILAiS_Screen.js
+・MILAiS_Screen.htmlとMILAiS_Screen.js  
 こちらはスクリーンを出した時のストリートビューです．
 また，画像は32分割してません．
 
